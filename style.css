@@ -1,0 +1,24 @@
+body{
+    font-family: ubuntu;
+    background-image: url(asset/bg-image.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text{
+    font-size: larger;
+    background-color: rgba(214, 203, 203, 0.411);
+    font-weight: bold;  
+}
+/* .heading{
+    margin-top: 17%;
+} */
+.ogi{
+    margin-left: 20%;
+}
+.main{
+    width: 45%;
+    height: 30%;
+    margin-top: 14%;
+    margin-left: 6%;
+    background-color: rgba(240, 255, 255, 0.459);
+}
